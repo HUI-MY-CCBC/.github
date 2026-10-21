@@ -4,9 +4,7 @@ HUI-MY Center for Computational Biology and Chemistry
 
 Computational Biology | Computational Engineering | Machine Learning
 
-Website: https://www.huimy.top
-Blog: https://blog.huimy.top
-Email: suguohui_account@163.com
+Website: https://www.huimy.top · Blog: https://blog.huimy.top · Email: suguohui_account@163.com
 
 ---
 
@@ -21,34 +19,13 @@ Email: suguohui_account@163.com
 ## Selected Projects
 
 <p align="center">
-  <a href="https://github.com/HUI-MY-CCBC"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-flex-trimmer-dark.svg">
-    <img src="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-flex-trimmer-light.svg" width="30%" alt="FlexTrimmer">
-  </picture></a>
-  <a href="https://github.com/HUI-MY-CCBC"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-protein-phaser-dark.svg">
-    <img src="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-protein-phaser-light.svg" width="30%" alt="Protein Phaser">
-  </picture></a>
-  <a href="https://github.com/HUI-MY-CCBC"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-biocuda-dark.svg">
-    <img src="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-biocuda-light.svg" width="30%" alt="BioCUDA">
-  </picture></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/projects-dark.svg">
+    <img src="../assets/imgs/projects-light.svg" width="100%" alt="Selected Projects">
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/HUI-MY-CCBC"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-vina-workflow-dark.svg">
-    <img src="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-vina-workflow-light.svg" width="30%" alt="Vina Virtual Screening Workflow">
-  </picture></a>
-  <a href="https://github.com/HUI-MY-CCBC"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-gromacs-dark.svg">
-    <img src="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-gromacs-light.svg" width="30%" alt="GROMACS Multi-System Simulation Framework">
-  </picture></a>
-  <a href="https://github.com/HUI-MY-CCBC"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-md-analysis-dark.svg">
-    <img src="https://raw.githubusercontent.com/HUI-MY-CCBC/.github/main/profile/card-md-analysis-light.svg" width="30%" alt="MD Analysis Toolkit">
-  </picture></a>
-</p>
+FlexTrimmer · Protein Phaser · BioCUDA · Vina Virtual Screening Workflow · GROMACS Multi-System Simulation Framework · MD Analysis Toolkit
 
 Full project list: https://github.com/HUI-MY-CCBC
 
