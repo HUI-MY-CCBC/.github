@@ -30,6 +30,24 @@ Website: https://www.huimy.top · Blog: https://blog.huimy.top · Email: suguohu
 </a>
 </td>
 
+<td width="50%" align="center">
+<a href="https://github.com/GuiHui-huimy/LabPress">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/LabPress-dark.svg">
+  <img src="../assets/imgs/LabPress-light.svg" width="100%" alt="LabPress">
+</picture>
+</a>
+</td>
+
+<td width="50%" align="center">
+<a href="https://github.com/GuiHui-huimy/LabPress">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/LabPress-dark.svg">
+  <img src="../assets/imgs/LabPress-light.svg" width="100%" alt="LabPress">
+</picture>
+</a>
+</td>
+
 </tr>
 </table>
 
