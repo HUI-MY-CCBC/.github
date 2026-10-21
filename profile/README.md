@@ -18,34 +18,29 @@ Website: https://www.huimy.top · Blog: https://blog.huimy.top · Email: suguohu
 
 ## Selected Projects
 
-<table align="center">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center">
+<td width="33%" align="center" valign="top">
 <a href="https://github.com/GuiHui-huimy/LabPress">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/LabPress-dark.svg">
-  <img src="../assets/imgs/LabPress-light.svg" width="440" alt="LabPress">
+  <img src="../assets/imgs/LabPress-light.svg" width="300" alt="LabPress">
 </picture>
 </a>
 </td>
-<td align="center">
+<td width="33%" align="center" valign="top">
 <a href="https://github.com/GuiHui-huimy/LabPress">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/LabPress-dark.svg">
-  <img src="../assets/imgs/LabPress-light.svg" width="440" alt="LabPress">
+  <img src="../assets/imgs/LabPress-light.svg" width="300" alt="LabPress">
 </picture>
 </a>
 </td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td align="center">
+<td width="33%" align="center" valign="top">
 <a href="https://github.com/GuiHui-huimy/LabPress">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/LabPress-dark.svg">
-  <img src="../assets/imgs/LabPress-light.svg" width="440" alt="LabPress">
+  <img src="../assets/imgs/LabPress-light.svg" width="300" alt="LabPress">
 </picture>
 </a>
 </td>
