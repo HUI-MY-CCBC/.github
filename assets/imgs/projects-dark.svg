@@ -1,42 +1,14 @@
 <svg 
-    
-    
-    
-    xmlns="http://www.w3.org/2000/svg" width="1240" height="240" viewBox="0 0 1240 240">
-    <style>
+  xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190">
+  <style>
     .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
-    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; fill: #58a6ff; }
-    .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; }
-    .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #8b949e; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 26px; font-weight: 700; fill: #58a6ff; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 18px; fill: #8b949e; }
+    .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15px; fill: #8b949e; }
   </style>
-    <rect class="card" x="0" y="0" width="400" height="110" rx="6"/>
-    <text class="title" x="16" y="30">FlexTrimmer</text>
-    <text class="desc" x="16" y="54">Machine learning based prediction of</text>
-    <text class="desc" x="16" y="72">flexible regions for sequence trimming</text>
-    <text class="meta" x="16" y="96">Python · Apache-2.0</text>
-    <rect class="card" x="420" y="0" width="400" height="110" rx="6"/>
-    <text class="title" x="436" y="30">Protein Phaser</text>
-    <text class="desc" x="436" y="54">High-performance PDB/mmCIF parsing</text>
-    <text class="desc" x="436" y="72">framework based on ciflib</text>
-    <text class="meta" x="436" y="96">C++</text>
-    <rect class="card" x="840" y="0" width="400" height="110" rx="6"/>
-    <text class="title" x="856" y="30">BioCUDA</text>
-    <text class="desc" x="856" y="54">GPU acceleration library for</text>
-    <text class="desc" x="856" y="72">computational biology</text>
-    <text class="meta" x="856" y="96">C++ · CUDA</text>
-    <rect class="card" x="0" y="130" width="400" height="110" rx="6"/>
-    <text class="title" x="16" y="160">Vina Virtual Screening Workflow</text>
-    <text class="desc" x="16" y="184">Automated high-throughput</text>
-    <text class="desc" x="16" y="202">protein-ligand docking pipeline</text>
-    <text class="meta" x="16" y="226">Python</text>
-    <rect class="card" x="420" y="130" width="400" height="110" rx="6"/>
-    <text class="title" x="436" y="160">GROMACS Framework</text>
-    <text class="desc" x="436" y="184">Fully automated MD simulation</text>
-    <text class="desc" x="436" y="202">framework supporting four systems</text>
-    <text class="meta" x="436" y="226">Shell</text>
-    <rect class="card" x="840" y="130" width="400" height="110" rx="6"/>
-    <text class="title" x="856" y="160">MD Analysis Toolkit</text>
-    <text class="desc" x="856" y="184">One-click RMSD, RMSF, Rg and</text>
-    <text class="desc" x="856" y="202">MMPBSA analysis generation</text>
-    <text class="meta" x="856" y="226">Python</text>
+  <rect class="card" x="0" y="0" width="480" height="190" rx="10"/>
+  <text class="title" x="24" y="52">LabPress</text>
+  <text class="desc" x="24" y="96">DESCRIPTION LINE ONE</text>
+  <text class="desc" x="24" y="124">DESCRIPTION LINE TWO</text>
+  <text class="meta" x="24" y="168">LANGUAGE · LICENSE</text>
 </svg>

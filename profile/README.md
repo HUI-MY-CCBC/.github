@@ -18,14 +18,62 @@ Website: https://www.huimy.top · Blog: https://blog.huimy.top · Email: suguohu
 
 ## Selected Projects
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/projects-dark.svg">
-    <img src="../assets/imgs/projects-light.svg" width="100%" alt="Selected Projects">
-  </picture>
-</p>
-
-FlexTrimmer · Protein Phaser · BioCUDA · Vina Virtual Screening Workflow · GROMACS Multi-System Simulation Framework · MD Analysis Toolkit
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/HUI-MY-CCBC/FlexTrimmer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/flex-trimmer-dark.svg">
+  <img src="../assets/imgs/flex-trimmer-light.svg" width="100%" alt="FlexTrimmer">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/HUI-MY-CCBC/ProteinPhaser">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/protein-phaser-dark.svg">
+  <img src="../assets/imgs/protein-phaser-light.svg" width="100%" alt="Protein Phaser">
+</picture>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/HUI-MY-CCBC/BioCUDA">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/biocuda-dark.svg">
+  <img src="../assets/imgs/biocuda-light.svg" width="100%" alt="BioCUDA">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/HUI-MY-CCBC/VinaWorkflow">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/vina-workflow-dark.svg">
+  <img src="../assets/imgs/vina-workflow-light.svg" width="100%" alt="Vina Workflow">
+</picture>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/HUI-MY-CCBC/GROMACS">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/gromacs-dark.svg">
+  <img src="../assets/imgs/gromacs-light.svg" width="100%" alt="GROMACS Framework">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/HUI-MY-CCBC/MDAnalysis">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/imgs/md-analysis-dark.svg">
+  <img src="../assets/imgs/md-analysis-light.svg" width="100%" alt="MD Analysis Toolkit">
+</picture>
+</a>
+</td>
+</tr>
+</table>
 
 Full project list: https://github.com/HUI-MY-CCBC
 
