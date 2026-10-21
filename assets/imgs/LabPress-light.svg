@@ -1,15 +1,14 @@
-<svg 
-  
-  xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190">
   <style>
     .card { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
     .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 26px; font-weight: 700; fill: #0969da; }
     .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 18px; fill: #57606a; }
+    .desc-small { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #57606a; }
     .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15px; fill: #57606a; }
   </style>
   <rect class="card" x="0" y="0" width="480" height="190" rx="10"/>
-  <text class="title" x="24" y="52">PROJECT TITLE</text>
-  <text class="desc" x="24" y="96">DESCRIPTION LINE ONE</text>
-  <text class="desc" x="24" y="124">DESCRIPTION LINE TWO</text>
-  <text class="meta" x="24" y="168">LANGUAGE · LICENSE</text>
+  <text class="title" x="24" y="52">LabPress</text>
+  <text class="desc" x="24" y="96">Open Source Academic CMS</text>
+  <text class="desc-small" x="24" y="124">PHP &amp; MySQL, hook-driven plugins, full i18n. Launch your lab website quickly.</text>
+  <text class="meta" x="24" y="168">PHP · GPL LICENSE</text>
 </svg>
